@@ -4,7 +4,7 @@
   "description": "testT",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "linebot": "^1.4.1",
     "mongodb": "^3.1.13"
   },
